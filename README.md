@@ -1,5 +1,5 @@
 # mjohanson-COM421-P1
-* A research toolbox to assist college students with their research papers.
+A research toolbox to assist college students with their research papers.
 
 ## Description
 This website allows users to learn about all the steps and aspects to writing a good research paper. Currently, two pages are active. The data page covers basic data and statistical analysis using Excel, the second page is the research page. It guides users to effective resources to find information and helps set realistic expectations for the scope of a research paper. 
